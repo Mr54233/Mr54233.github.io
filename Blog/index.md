@@ -4,8 +4,8 @@ layout: home
 
 hero:
   name: "54's blog"
-  text: ""
-  tagline: 这里是54的博客
+  text: "这里是54的博客"
+  tagline: 杂七杂八的写点东西
   # image:
   #   src: /avatar.jpg
   #   alt: 头像
