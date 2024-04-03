@@ -27,6 +27,7 @@ export default defineConfig({
           { text: '总结一下实习一个多礼拜以来的问题', link:'/blog/总结一下实习一个多礼拜以来的问题'},
           { text: '旧年', link:'/blog/旧年'},
           { text: '迁移', link:'/blog/迁移'},
+          { text: '你想活出怎样的人生', link:'/blog/你想活出怎样的人生'},
         ]
       }
     ],
