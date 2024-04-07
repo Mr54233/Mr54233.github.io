@@ -11,7 +11,6 @@ import { useRoute } from "vitepress";
 import Theme from "vitepress/theme";
 import { ref, watch, onMounted, nextTick } from "vue";
 import Gitalk from "gitalk";
-import { nanoid } from "nanoid";
 
 const { Layout } = Theme;
 const route = useRoute();
