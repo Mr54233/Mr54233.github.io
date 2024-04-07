@@ -11,6 +11,7 @@ import { useRoute } from "vitepress";
 import Theme from "vitepress/theme";
 import { ref, watch, onMounted, nextTick } from "vue";
 import Gitalk from "gitalk";
+import { nanoid } from "nanoid";
 
 const { Layout } = Theme;
 const route = useRoute();
@@ -53,7 +54,7 @@ const initGitalk = () => {
 		// 如果 Issue 不存在，且登陆的是管理员账号，是否显示创建 Issue 按钮
 		createIssueManually: true,
 		// 创建 Issue 时，用于唯一标识这篇文章的标记
-		id: location.pathname,
+		id: nanoid(),
 		// 撰写评论时，给一个全屏遮罩，聚焦到评论框
 		distractionFreeMode: true,
 	});

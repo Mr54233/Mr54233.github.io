@@ -17,6 +17,7 @@
     "vitepress": "^1.0.1"
   },
   "dependencies": {
+    "nanoid": "^5.0.6",
     "vue": "^3.4.21"
   }
 }
