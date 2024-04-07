@@ -54,7 +54,7 @@ const initGitalk = () => {
 		// 如果 Issue 不存在，且登陆的是管理员账号，是否显示创建 Issue 按钮
 		createIssueManually: true,
 		// 创建 Issue 时，用于唯一标识这篇文章的标记
-		id: nanoid(),
+		id: decodeURI(location.pathname),
 		// 撰写评论时，给一个全屏遮罩，聚焦到评论框
 		distractionFreeMode: true,
 	});
