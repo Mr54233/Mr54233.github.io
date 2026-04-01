@@ -28,6 +28,7 @@ export default defineConfig({
           { text: '旧年', link:'/blog/旧年'},
           { text: '迁移', link:'/blog/迁移'},
           { text: '你想活出怎样的人生', link:'/blog/你想活出怎样的人生'},
+          { text: '浴室的灯坏了', link:'/blog/浴室的灯坏了'},
         ]
       }
     ],
