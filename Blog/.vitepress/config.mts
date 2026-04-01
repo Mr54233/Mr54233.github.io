@@ -64,7 +64,7 @@ export default defineConfig({
     
     footer: {
       message: '本站总访问量 <span id="busuanzi_value_site_pv" /> 次',
-      copyright: '©2022 - 2024 By Mr54'
+      copyright: '©2022 - 2026 By Mr54'
     }
   },
   
