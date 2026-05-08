@@ -29,6 +29,7 @@ export default defineConfig({
           { text: '迁移', link:'/blog/迁移'},
           { text: '你想活出怎样的人生', link:'/blog/你想活出怎样的人生'},
           { text: '浴室的灯坏了', link:'/blog/浴室的灯坏了'},
+          { text: '穿普拉达的女王2', link:'/blog/穿普拉达的女王2'},
         ]
       }
     ],
