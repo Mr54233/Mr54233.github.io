@@ -1,42 +1,7 @@
 // https://vitepress.dev/guide/custom-theme
-import { h } from 'vue'
-import type { Theme } from 'vitepress'
-import DefaultTheme from 'vitepress/theme'
+import Teek from 'vitepress-theme-teek'
+import 'vitepress-theme-teek/index.css'
 import './style.css'
-import { inBrowser } from 'vitepress'
 
-
-// 评论
-import GitalkLayout from './layout/GitalkLayout.vue'
-import 'gitalk/dist/gitalk.css'
-
-// 统计
-import busuanzi from 'busuanzi.pure.js'
-
-// export default {
-//   extends: DefaultTheme,
-//   Layout: () => {
-//     return h(DefaultTheme.Layout, null, {
-//       // https://vitepress.dev/guide/extending-default-theme#layout-slots
-//       GitalkLayout
-//     })
-//   },
-//   enhanceApp({ app, router, siteData }) {
-//     // ...
-
-//   }
-// } satisfies Theme
-
-const theme: Theme = {
-  ...DefaultTheme,
-  Layout: GitalkLayout,
-  enhanceApp({ app, router, siteData }) {
-    if (inBrowser) {
-      router.onAfterRouteChanged = () => {
-        busuanzi.fetch()
-      }
-    }
-  }
-}
-
-export default theme
+// 评论(giscus)与访问统计(busuanzi)均由 Teek 主题内置支持,在 ../config.mts 的 teekConfig 中配置
+export default Teek
