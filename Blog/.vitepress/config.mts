@@ -116,10 +116,11 @@ const teekConfig = defineTeekConfig({
         { text: '工具配置', link: '/blog/工具配置' }
       ]
     },
-    {
-      text: '💼 项目实践',
-      items: [
-        { text: '前端升级规划', link: '/blog/前端升级规划' },
+      {
+        text: '💼 项目实践',
+        items: [
+          { text: '博客翻新记', link: '/blog/博客翻新记' },
+          { text: '前端升级规划', link: '/blog/前端升级规划' },
         { text: '某数字员工前端项目 前端框架升级总结与复盘', link: '/blog/某数字员工前端项目 前端框架升级总结与复盘' },
         { text: '某前端主项目 Vite 6 → Vite 8 升级影响分析报告', link: '/blog/某前端主项目 Vite 6 → Vite 8 升级影响分析报告' },
         { text: '某前端基础库 前端图标系统完整分析文档', link: '/blog/某前端基础库 前端图标系统完整分析文档' },
