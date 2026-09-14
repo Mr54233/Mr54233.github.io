@@ -1,5 +1,6 @@
 ---
 title: "某前端主项目 Vite 6 → Vite 8 升级影响分析报告"
+description: "Vite 6 升级到 Vite 8 的影响面分析"
 date: "2026-07-06"
 categories:
   - 项目实践

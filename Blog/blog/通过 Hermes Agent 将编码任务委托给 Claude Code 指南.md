@@ -1,5 +1,6 @@
 ---
 title: "通过 Hermes Agent 将编码任务委托给 Claude Code 指南"
+description: "用 Hermes Agent 把编码任务委托给 Claude Code 的完整流程"
 date: "2026-07-02"
 categories:
   - AI 与编程工具

@@ -1,5 +1,6 @@
 ---
 title: "TypeScript 7.0：原生时代来了，但我们该怎么接"
+description: "TypeScript 7.0 原生编译器时代的升级决策指南"
 date: "2026-07-09"
 categories:
   - 前端技术

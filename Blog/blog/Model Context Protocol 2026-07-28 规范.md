@@ -1,5 +1,6 @@
 ---
 title: "Model Context Protocol 2026-07-28 规范"
+description: "MCP 官方博文规范的中英对照"
 date: "2026-07-30"
 categories:
   - AI 与编程工具

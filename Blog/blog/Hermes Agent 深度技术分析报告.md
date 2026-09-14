@@ -1,5 +1,6 @@
 ---
 title: "Hermes Agent 深度技术分析报告"
+description: "Hermes Agent 的架构与技术细节分析"
 date: "2026-07-03"
 categories:
   - AI 与编程工具

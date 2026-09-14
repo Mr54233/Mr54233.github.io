@@ -1,5 +1,6 @@
 ---
 title: "RTK + MemPalace 工具使用教程"
+description: "RTK 与 MemPalace 的组合使用教程"
 date: "2026-07-01"
 categories:
   - 项目实践

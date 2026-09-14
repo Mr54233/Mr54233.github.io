@@ -1,5 +1,6 @@
 ---
 title: "Claude Code Skills 使用指南"
+description: "Claude Code Skills 功能的使用指南"
 date: "2026-07-08"
 categories:
   - AI 与编程工具

@@ -1,5 +1,6 @@
 ---
 title: "grill-with-docs 使用指南：怎么用，怎么用好"
+description: "grill-with-docs 技能的用法与最佳实践"
 date: "2026-07-16"
 categories:
   - AI 与编程工具

@@ -1,5 +1,6 @@
 ---
 title: "grill-with-docs 技能家族深度解析：从写法到设计哲学"
+description: "grill-with-docs 技能家族的写法与设计思想拆解"
 date: "2026-07-16"
 categories:
   - AI 与编程工具

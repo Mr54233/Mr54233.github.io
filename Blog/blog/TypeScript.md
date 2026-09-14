@@ -1,5 +1,6 @@
 ---
 title: "TypeScript"
+description: "TypeScript 知识点学习笔记"
 date: "2026-07-21"
 categories:
   - 前端技术

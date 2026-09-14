@@ -1,5 +1,6 @@
 ---
 title: "MCP是什么"
+description: "MCP Server 的安装与使用教程"
 date: "2026-07-16"
 categories:
   - AI 与编程工具

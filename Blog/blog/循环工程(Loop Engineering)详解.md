@@ -1,5 +1,6 @@
 ---
 title: "循环工程(Loop Engineering)详解"
+description: "循环工程(Loop Engineering)概念详解"
 date: "2026-07-02"
 categories:
   - AI 与编程工具

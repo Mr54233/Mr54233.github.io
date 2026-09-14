@@ -1,5 +1,6 @@
 ---
 title: "驾驭工程(Harness Engineering)详解"
+description: "驾驭工程(Harness Engineering)概念详解"
 date: "2026-07-01"
 categories:
   - AI 与编程工具

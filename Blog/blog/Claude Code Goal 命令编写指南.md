@@ -1,5 +1,6 @@
 ---
 title: "Claude Code Goal 命令编写指南"
+description: "Claude Code Goal 命令的编写方法"
 date: "2026-07-03"
 categories:
   - AI 与编程工具

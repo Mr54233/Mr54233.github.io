@@ -1,5 +1,6 @@
 ---
 title: "RIPER-5 模式 + 多维度智能协作协议 (v4.9.12)"
+description: "RIPER-5 多维度智能协作协议完整版"
 date: "2026-07-07"
 categories:
   - AI 与编程工具

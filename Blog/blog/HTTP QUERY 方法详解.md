@@ -1,5 +1,6 @@
 ---
 title: "HTTP QUERY 方法详解"
+description: "HTTP QUERY 新方法的语义与用法详解"
 date: "2026-07-01"
 categories:
   - 前端技术

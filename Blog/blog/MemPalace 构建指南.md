@@ -1,5 +1,6 @@
 ---
 title: "MemPalace 构建指南"
+description: "MemPalace 记忆系统的构建指南"
 date: "2026-07-06"
 categories:
   - 项目实践

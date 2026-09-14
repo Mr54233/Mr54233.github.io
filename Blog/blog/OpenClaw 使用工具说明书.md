@@ -1,5 +1,6 @@
 ---
 title: "OpenClaw 使用工具说明书"
+description: "OpenClaw 工具的完整使用说明"
 date: "2026-07-06"
 categories:
   - AI 与编程工具

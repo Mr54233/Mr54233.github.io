@@ -1,5 +1,6 @@
 ---
 title: "飞书 CLI 安装与使用指南"
+description: "飞书 CLI 的安装与常用操作"
 date: "2026-07-02"
 categories:
   - AI 与编程工具

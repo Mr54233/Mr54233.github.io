@@ -1,5 +1,6 @@
 ---
 title: "意见反馈页面迁移 AI 使用说明"
+description: "借助 AI 完成意见反馈页面迁移的实操说明"
 date: "2026-07-07"
 categories:
   - 项目实践

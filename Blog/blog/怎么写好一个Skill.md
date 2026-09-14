@@ -1,5 +1,6 @@
 ---
 title: "怎么写好一个 Skill"
+description: "写好一个 Claude Skill 的经验总结"
 date: "2026-07-14"
 categories:
   - AI 与编程工具
