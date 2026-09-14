@@ -7,7 +7,12 @@ import { defineTeekConfig } from 'vitepress-theme-teek/config'
 
 const teekConfig = defineTeekConfig({
   // 关闭按文件树自动生成的平铺侧边栏,使用下方自定义分组 sidebar
-  vitePlugins: { sidebar: false },
+  // fileContentLoaderIgnore:blog.md 是索引页,不能计入文章列表数据 ——
+  // Teek 的分页总数在 inHomePost 过滤之前统计,计入它会产生一个永远为空的第 5 页
+  vitePlugins: {
+    sidebar: false,
+    fileContentLoaderIgnore: ['**/blog.md'],
+  },
 
   // 首页卡片:隐藏精选文章和友情链接(以后要开就删掉这两个 enabled 或改回 true)
   topArticle: { enabled: false },
