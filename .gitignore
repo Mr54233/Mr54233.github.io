@@ -2,3 +2,4 @@ node_modules
 Blog/.vitepress/dist/
 Blog/.vitepress/cache/
 .gstack/
+.home_tmp.html
