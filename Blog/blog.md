@@ -9,6 +9,7 @@ inHomePost: false
 
 ## 🤖 AI 与编程工具
 
+- [断更七周憋出半个项目：OpenClaw 2.0 更新全解读](</blog/断更七周憋出半个项目：OpenClaw 2.0 更新全解读>) — 2026-09-15
 - [MCP 2026-07-28 规范，说点人话](</blog/MCP 2026-07-28 规范，说点人话>) — 2026-07-30
 - [Model Context Protocol 2026-07-28 规范](</blog/Model Context Protocol 2026-07-28 规范>) — 2026-07-30
 - [grill-with-docs 使用指南：怎么用，怎么用好](</blog/grill-with-docs 使用指南：怎么用，怎么用好>) — 2026-07-16

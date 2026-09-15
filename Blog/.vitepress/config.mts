@@ -92,10 +92,11 @@ const teekConfig = defineTeekConfig({
         { text: 'Hello world', link: '/blog/Hello world' }
       ]
     },
-    {
-      text: '🤖 AI 与编程工具',
-      items: [
-        { text: 'MCP 2026-07-28 规范，说点人话', link: '/blog/MCP 2026-07-28 规范，说点人话' },
+      {
+        text: '🤖 AI 与编程工具',
+        items: [
+          { text: '断更七周憋出半个项目：OpenClaw 2.0 更新全解读', link: '/blog/断更七周憋出半个项目：OpenClaw 2.0 更新全解读' },
+          { text: 'MCP 2026-07-28 规范，说点人话', link: '/blog/MCP 2026-07-28 规范，说点人话' },
         { text: 'Model Context Protocol 2026-07-28 规范', link: '/blog/Model Context Protocol 2026-07-28 规范' },
         { text: 'grill-with-docs 使用指南：怎么用，怎么用好', link: '/blog/grill-with-docs 使用指南：怎么用，怎么用好' },
         { text: 'grill-with-docs 技能家族深度解析：从写法到设计哲学', link: '/blog/grill-with-docs 技能家族深度解析：从写法到设计哲学' },
