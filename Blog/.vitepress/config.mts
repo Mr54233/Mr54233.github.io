@@ -78,6 +78,7 @@ const teekConfig = defineTeekConfig({
     {
       text: '🏠 生活随笔',
       items: [
+        { text: '独自旅行', link: '/blog/独自旅行' },
         { text: '穿普拉达的女王2', link: '/blog/穿普拉达的女王2' },
         { text: '浴室的灯坏了', link: '/blog/浴室的灯坏了' },
         { text: '你想活出怎样的人生', link: '/blog/你想活出怎样的人生' },
