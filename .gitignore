@@ -3,3 +3,4 @@ Blog/.vitepress/dist/
 Blog/.vitepress/cache/
 .gstack/
 .home_tmp.html
+.playwright-mcp/
